@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Scope;
 
 @Configuration
 public class BeanConfig {
-    //    @Scope("request")
-    //    @Scope("session")
+    //   @Scope("request")
+    //   @Scope("session")
     @Bean(initMethod = "initialBeanMethod" , destroyMethod = "destroyBeanMethod")
     @Scope("singleton") // projeyle başlayıp projeyle ölen yapı
 
