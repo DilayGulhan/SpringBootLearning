@@ -16,12 +16,12 @@ public class BeanDTO {
     private String beanName ;
     private String beanData ;
 
-//    start
+//   start
     public void initialBeanMethod (){
         log.info("I'm there before bean starting");
         System.out.println("The method that run before bean starting ");
     }
-//    finish
+//   finish
     public void destroyBeanMethod(){
         log.info("I'm there after bean finished");
         System.err.println("The method that run after bean finished ");

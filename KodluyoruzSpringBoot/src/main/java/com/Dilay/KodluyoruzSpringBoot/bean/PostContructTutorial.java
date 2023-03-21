@@ -17,8 +17,8 @@ public class PostContructTutorial {
            Log.info("Log info çağrıldı");
        }
    */
-//bean henüz başlamadığından null alıyoruz ve burada bağımlılığı enjekte ediyoruz
-//Görevi : Bir bean nesnesi oluşturulduğunda hemen oluşur
+// bean henüz başlamadığından null alıyoruz ve burada bağımlılığı enjekte ediyoruz
+// Görevi : Bir bean nesnesi oluşturulduğunda hemen oluşur
     /*    @PostConstruct
     public void init(){
         Log.info("Log info çağrıldı");
