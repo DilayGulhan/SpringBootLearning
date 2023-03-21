@@ -10,8 +10,8 @@ import java.util.logging.Logger;
 @Controller
 public class PostContructTutorial {
 
-    @Autowired
-    Logger Log;
+//    @Autowired
+//    Logger Log;
     //Parametresiz constructor
     /*   public PostContructTutorial(){
            Log.info("Log info çağrıldı");
@@ -23,10 +23,10 @@ public class PostContructTutorial {
     public void init(){
         Log.info("Log info çağrıldı");
     }*/
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
        PostContructTutorial  beanController= new PostContructTutorial();
         System.out.println(beanController);
-    }
+    }*/
 }
 
 

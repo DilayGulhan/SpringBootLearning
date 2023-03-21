@@ -7,7 +7,11 @@
 - Spring Rest 
 
 ### Lesson Steps 
-> Spring MVC 
+> #### 1. Spring MVC 
+> MVC is:
+> Model --> Java Classes and DTO 
+> View --> HTML5
+> Controller --> The connection between Model and View 
 
 ### THE ERRORS THAT I GOT WHILE LEARNING
 >- The hierarchy should be like that :
