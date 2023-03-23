@@ -1,4 +1,4 @@
-package com.Dilay.KodluyoruzSpringBoot.bean;
+package com.Dilay.KodluyoruzSpringBoot.tutorials.bean;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

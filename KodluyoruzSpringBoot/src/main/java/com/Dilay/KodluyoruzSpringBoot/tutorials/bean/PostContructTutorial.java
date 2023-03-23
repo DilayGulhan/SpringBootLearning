@@ -1,4 +1,4 @@
-package com.Dilay.KodluyoruzSpringBoot.bean;
+package com.Dilay.KodluyoruzSpringBoot.tutorials.bean;
 
 
 import jakarta.annotation.PostConstruct;

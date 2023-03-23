@@ -1,4 +1,4 @@
-package com.Dilay.KodluyoruzSpringBoot.utils;
+package com.Dilay.KodluyoruzSpringBoot.tutorials.utils;
 
 public class ConfigProgramming {
 //    DevTools ==> LiveReload
